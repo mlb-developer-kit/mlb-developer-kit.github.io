@@ -1,0 +1,10 @@
+[
+  {
+    "name": "attendance",
+    "endpoint": "/api/v1/attendance",
+    "params": {
+      "path": [],
+      "query": []
+    }
+  }
+]
